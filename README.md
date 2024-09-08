@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm excited to share my projects and collaborate with othe
 
 🔭 Current Projects
 
-Community Dinner: I'm currently working on an initiative to bring people together through the loce of food.
+Community Dinner: I'm currently working on an initiative to bring people together through the love of food.
 
 👯 Looking to Collaborate
 
