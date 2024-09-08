@@ -10,7 +10,7 @@ Community Dinner: I'm currently working on an initiative to bring people togethe
 
 Medicinal Tea Quiz: I'm looking for collaborators to help build a quiz application focused on medicinal teas. If you're passionate about herbal remedies, user experience design, or just love quizzes, I'd love to hear from you!
 
-Hobbies: 🎮 🎨 📸 🌳 🥑 
+Hobbies: 🎮 🎨 📸 🌳 🍲
 
 <!--
 **ticoders/ticoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
