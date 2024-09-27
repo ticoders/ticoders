@@ -1,16 +1,16 @@
-Hello!
+Hello!🛸
 
 Welcome to my GitHub! I'm excited to share my projects and collaborate with others in the community.
 
-Current Projects
+🔨 Current Projects 
 
 Community Dinner: I'm currently working on an initiative to bring people together through the love of food.
 
-Looking to Collaborate
+🙌🏾 Looking to Collaborate 
 
 Medicinal Tea Quiz: I'm looking for collaborators to help build a quiz application focused on medicinal teas. If you're passionate about herbal remedies, user experience design, or just love quizzes, I'd love to hear from you!
 
-Hobbies: 🎮 🎨 📸 🌳 🍲
+Hobbies: 🍲 🌳 🎨 📸 🎮 
 
 <!--
 **ticoders/ticoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
