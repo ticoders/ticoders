@@ -10,7 +10,7 @@ Community Dinner: I'm currently working on an initiative to bring people togethe
 
 Medicinal Tea Quiz: I'm looking for collaborators to help build a quiz application focused on medicinal teas. If you're passionate about herbal remedies, user experience design, or just love quizzes, I'd love to hear from you!
 
-Hobbies: 🍲 🌳 🎨 📸 🎮 
+If im not coding im probably..  🍲 🌳 🎨 📸 🎮 
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
