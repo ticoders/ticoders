@@ -19,7 +19,7 @@ If im not coding im probably..  🍲 🌳 🎨 📸 🎮
 ![Node.js](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+ 
 
 
 <!--
