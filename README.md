@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm excited to share my projects and collaborate with othe
 
 🔨 Current Projects 
 
-Rooted Backend: First Iteration of a community mental health app that focuses on making alternative mental health care availaible to the LGBTQ+ community.
+Rooted Backend: First Iteration of a community mental health app; that focuses on making alternative mental health care availaible to the LGBTQ+ community.
 
 🙌🏾 Looking to Collaborate 
 
