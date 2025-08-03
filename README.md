@@ -1,14 +1,7 @@
-Hello!🛸
+ Hello! IMy name is Tea and I am drawn to working in colloborative environments that prioritize clean architecture, innovative problem solving and modular design.
 
-Welcome to my GitHub! I'm excited to share my projects and collaborate with others in the community.
-
-🔨 Current Projects 
-
-Rooted Backend: First Iteration of a community mental health app; that focuses on making alternative mental health care availaible to the LGBTQ+ community.
-
-🙌🏾 Looking to Collaborate 
-
-Medicinal Tea Quiz: I'm looking for collaborators to help build a quiz application focused on medicinal teas. If you're passionate about herbal remedies, user experience design, or just love quizzes, I'd love to hear from you!
+Some of my current projects are rooted in mental health, social justice and creative practice. 
+I love to colloborate so if you see any thing that looks interesting send me a message!
 
 If im not developing im probably..  🍲 🌳 🎨 📸 🎮 
 
