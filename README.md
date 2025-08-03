@@ -16,6 +16,10 @@ Need a quick break? Visit **[`pauseapp.club`](https://pauseapp.club)**
 ![Node.js](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JUnit](https://img.shields.io/badge/junit-25A162?logo=junit5&logoColor=white&style=for-the-badge)
+
  
 
 
