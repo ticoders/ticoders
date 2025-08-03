@@ -7,7 +7,7 @@ I love to colloborate so if you see any thing that looks interesting send me a m
 
 If im not developing im probably..  🍲 🌳 🎨 📸 🎮 
 
-Need a quick break? Visit pauseapp.club(https://pauseapp.club)
+[Need a quick break? Visit pauseapp.club](https://pauseapp.club)
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
