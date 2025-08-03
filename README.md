@@ -1,4 +1,5 @@
- Hello! IMy name is Tea and I am drawn to working in colloborative environments that prioritize clean architecture, innovative problem solving and modular design.
+ Hello! My name is Tea (They/He)
+ I am drawn to working in colloborative environments that prioritize clean architecture, innovative problem solving and modular design.
 
 Some of my current projects are rooted in mental health, social justice and creative practice. 
 I love to colloborate so if you see any thing that looks interesting send me a message!
